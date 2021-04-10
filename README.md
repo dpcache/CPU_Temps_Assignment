@@ -18,7 +18,8 @@ Once the make is complete run the following command to generate the output files
 
        PATH/parseTemps input_file_name
 
-Example: ./parseTemps test.text
+Example: 
+	./parseTemps test.text
 
 Result: 4 files should be generated. 
 Example: 
