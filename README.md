@@ -24,14 +24,19 @@ Example:
 
 Result: 4 files should be generated. 
 Example: 
+
 	{basename}-core-0.{txt}
+	
 	{basename}-core-1.{txt}
+	
 	{basename}-core-2.{txt}
+	
 	{basename}-core-3.{txt}
 	
 Sample Output:
 	The following is an example of output for a single core.
-	    0 <= x <    30   ; y_0 =              61.0000 +     0.6333x; interpolation
+	   
+	   0 <= x <    30   ; y_0 =              61.0000 +     0.6333x; interpolation
 	    
 	   30 <= x <    60   ; y_1 =              98.0000 +    -0.6000x; interpolation
 	   
