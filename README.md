@@ -20,7 +20,7 @@ Once the make is complete, run the following command to generate the output file
 
 Example: 
 	
-	./parseTemps test.text
+	./parseTemps test.txt
 
 Result: 4 files should be generated. 
 
