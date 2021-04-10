@@ -14,7 +14,7 @@ To create the executable use the following command in BASH (Command Prompt).
 
 	make
 
-Once the make is complete run the following command to generate the output files.
+Once the make is complete, run the following command to generate the output files.
 
        PATH/parseTemps input_file_name
 
