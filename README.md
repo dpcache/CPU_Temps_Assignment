@@ -23,6 +23,7 @@ Example:
 	./parseTemps test.text
 
 Result: 4 files should be generated. 
+
 Example: 
 
 	{basename}-core-0.{txt}
