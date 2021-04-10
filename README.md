@@ -4,7 +4,7 @@ A program that take the temperature readings from a file and generate for each c
    A global linear least squares approximation.
 
 
-##Installation For Unix------------------------
+## Installation For Unix------------------------
 
 Make sure everything is installed to run the makefile and compile C++ codes.
 
