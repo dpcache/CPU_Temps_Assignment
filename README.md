@@ -5,6 +5,7 @@ A program that take the temperature readings from a file and generate for each c
 
 
 ##Installation For Unix------------------------
+
 Make sure everything is installed to run the makefile and compile C++ codes.
 
 Extract the zip file, and navigate to extracted folder. 
